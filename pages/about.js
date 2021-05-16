@@ -27,7 +27,7 @@ export default function About() {
                         <hr/>
                         <blockquote>
                             <p class="text-lg text-black">
-                            Rick graduated from Virginia Tech in 1990 with a degree in Housing, Interior Design and Resource Management. He became a third generation builder and attained his unlimited commercial and residential general contractor’s license. Rick is also a qualifier in over 15 states for multiple companies in the solar and construction industries, and has over 10 years experience in the utility scale solar industry.
+                            I graduated from Virginia Tech in 1990 with a degree in Housing, Interior Design, and Resource Management. I became a third-generation builder and attained my unlimited commercial and residential general contractor’s license. I am also a qualifier in over 15 states for multiple companies in the solar and construction industries and have over 10 years experience in the utility scale solar industry.
                             </p>
                         </blockquote>
                     </div>
