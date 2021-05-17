@@ -86,7 +86,7 @@ export default function About() {
                         <hr/>
                         <blockquote>
                             <p class="text-lg text-black">
-                                I am currently a student at NC State University pursuing a B.S. in Computer Science. I have 2 years of web development experience and am currently working at SAS Institute as a DevOps intern. I develop and maintain this website, as well as several other across different companies.
+                                I am currently a student at NC State University pursuing a B.S. in Computer Science. I have 2 years of web development experience and am currently working at SAS Institute as a DevOps intern. I develop and maintain this website, as well as several others across different companies.
                             </p>
                         </blockquote>
                     </div>
