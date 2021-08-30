@@ -21,13 +21,13 @@ export default function About() {
                                 Rick Helton
                             </div>
                             <div class="text-blue-700">
-                                Unlimited Licensed Residential<br/>Commercial General Contractor <br/>License Qualifier
+                                Unlimited Licensed Residential<br/>Commercial General Contractor
                             </div>
                         </figcaption>
                         <hr/>
                         <blockquote>
                             <p class="text-lg text-black">
-                            I graduated from Virginia Tech in 1990 with a degree in Housing, Interior Design, and Resource Management. I became a third-generation builder and attained my unlimited commercial and residential general contractor’s license. I am also a qualifier in over 15 states for multiple companies in the solar and construction industries and have over 10 years experience in the utility scale solar industry.
+                            I graduated from Virginia Tech in 1990 with a degree in Housing, Interior Design, and Resource Management. I became a third-generation builder and attained my unlimited commercial and residential general contractor’s license. I also have over 10 years of experience in the utility scale solar industry.
                             </p>
                         </blockquote>
                     </div>
