@@ -21,12 +21,6 @@ const newFeatures = [
     icon: OfficeBuildingIcon,
   },
   {
-    name: 'Multi-state Qualifying',
-    description:
-      '"description"',
-    icon: GlobeAltIcon,
-  },
-  {
     name: 'Multi-state Civil and Grading Contracting',
     description:
       '"description"',
@@ -76,8 +70,6 @@ export default function Services() {
                                 <feature.icon className="h-6 w-6" aria-hidden="true" />
                             </div>
                             <p className="ml-16 text-lg leading-6 font-medium text-gray-900">{feature.name}</p>
-                            {/* </dt> */}
-                            {/* <dd className="mt-2 ml-16 text-base text-gray-700">{feature.description}</dd> */}
                         </div>
                         ))}
                     </dl>
